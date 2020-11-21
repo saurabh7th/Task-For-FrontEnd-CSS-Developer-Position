@@ -4,7 +4,7 @@ body {
     align-items: center;
     min-height: 100vh;
     
-        background:  url(Images/penbook.jpg) no-repeat center center fixed; 
+        background:  url(https://images.pexels.com/photos/1906440/pexels-photo-1906440.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center fixed; 
         
         background-size: cover;
       
@@ -37,20 +37,3 @@ body {
     margin-left: 42%;
     margin-right: 40%;
 }
-
-/*.row {
-    width: auto;
-    border: 1px solid blue;
-}
-.flex-item {
-    background-color: tomato;
-    padding: 5px;
-    width: 20px;
-    height: 20px;
-    margin: 10px;
-    line-height: 20px;
-    color: white;
-    font-weight: bold;
-    font-size: 2em;
-    text-align: center;
-} */
